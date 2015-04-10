@@ -1,4 +1,3 @@
-//插入排序 pefect:O(n); bad:O(n2); average:O(n2)
 var arrSort = {
     insertSort: function(arr){ //插入排序
         var i = 0, j;
