@@ -1,5 +1,7 @@
 > @author angelzou  
 > @time 2015/5/2 16:18:12 
+
+
 # js-base
 just the basis of the javascript
 
